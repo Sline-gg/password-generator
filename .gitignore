@@ -1,0 +1,13 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+.gitignore
+.idea/$PRODUCT_WORKSPACE_FILE$
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+out/
+password-generator.iml
